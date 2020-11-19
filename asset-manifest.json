@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/taskDeploy/static/css/main.b58166df.chunk.css",
+    "main.js": "/taskDeploy/static/js/main.a5e1afdc.chunk.js",
+    "main.js.map": "/taskDeploy/static/js/main.a5e1afdc.chunk.js.map",
+    "runtime-main.js": "/taskDeploy/static/js/runtime-main.4443c75b.js",
+    "runtime-main.js.map": "/taskDeploy/static/js/runtime-main.4443c75b.js.map",
+    "static/js/2.122a6acd.chunk.js": "/taskDeploy/static/js/2.122a6acd.chunk.js",
+    "static/js/2.122a6acd.chunk.js.map": "/taskDeploy/static/js/2.122a6acd.chunk.js.map",
+    "index.html": "/taskDeploy/index.html",
+    "static/css/main.b58166df.chunk.css.map": "/taskDeploy/static/css/main.b58166df.chunk.css.map",
+    "static/js/2.122a6acd.chunk.js.LICENSE.txt": "/taskDeploy/static/js/2.122a6acd.chunk.js.LICENSE.txt",
+    "static/media/Kard Fan.9fe80a9f.png": "/taskDeploy/static/media/Kard Fan.9fe80a9f.png",
+    "static/media/App.css": "/taskDeploy/static/media/hero.208f47e8.png",
+    "static/media/kashware kard.0f1513ae.png": "/taskDeploy/static/media/kashware kard.0f1513ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4443c75b.js",
+    "static/js/2.122a6acd.chunk.js",
+    "static/css/main.b58166df.chunk.css",
+    "static/js/main.a5e1afdc.chunk.js"
+  ]
+}
